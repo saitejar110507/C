@@ -36,60 +36,9 @@ Whether you're a student, hobbyist, or aspiring systems programmer — this road
 
 ## 📁 Project Structure
 
+C-Roadmap/ │ ├── README.md ├── LICENSE ├── CONTRIBUTING.md │ ├── stage-0/ │ └── README.md │ ├── stage-1/ │ └── README.md │ ├── stage-2/ │ └── README.md │ ├── stage-3/ │ └── README.md │ ├── stage-4/ │ └── README.md │ ├── stage-5/ │ └── README.md │ ├── stage-6/ │ └── README.md │ ├── stage-7/ │ └── README.md │ ├── assets/ │ ├── memory-layout.png │ └── visuals/ │ └── stage1-flowchart.png
 
 ---
-C-Roadmap/
-│
-├── README.md
-├── LICENSE
-├── CONTRIBUTING.md
-│
-├── stage-0/
-│   └── README.md
-│
-├── stage-1/
-│   └── README.md
-│
-├── stage-2/
-│   └── README.md
-│
-├── stage-3/
-│   └── README.md
-│
-├── stage-4/
-│   └── README.md
-│
-├── stage-5/
-│   └── README.md
-│
-├── stage-6/
-│   └── README.md
-│
-├── stage-7/
-│   └── README.md
-│
-├── assets/
-│   ├── memory-layout.png
-│   └── visuals/
-│       └── stage1-flowchart.png
----
-   └── README.md
-│
-├── stage-6/                  ← Advanced topics: File IO, macros, sys calls
-│   └── README.md
-│
-├── stage-7/                  ← Real-world projects, challenges
-│   └── README.md
-│
-├── assets/                   ← Static files: logos, icons, diagrams
-│   ├── memory-layout.png
-│   └── visuals/              ← Visual explanations (charts, infographics)
-│       └── stage1-flowchart.png
-
-
-
-
-
 
 ## 🛠️ Setup & Requirements
 
