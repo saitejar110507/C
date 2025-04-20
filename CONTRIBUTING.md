@@ -1,30 +1,44 @@
 # Contribution Guidelines
 
-Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
+Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project, you agree to abide by its terms.
 
-## Adding an awesome list
+## Adding to the C Programming Roadmap
+
+If you want to contribute to improving the roadmap, add resources, fix typos, or enhance any section, here’s how you can do it:
 
 Please ensure your pull request adheres to the [list of guidelines](pull_request_template.md).
 
-## Creating your own awesome list
+## Creating New Roadmap Sections
 
-To create your own list, check out the [instructions](create-list.md).
+If you'd like to create a new section or add detailed content to any part of the roadmap, please follow these guidelines:
 
-## Adding something to an awesome list
+1. **Clone the repository** to your local machine.
+2. **Create a new folder** under the appropriate section.
+3. **Add relevant content**, such as code examples, tutorials, or explanations.
+4. Ensure all content follows the structure and flow of existing materials.
 
-If you have something awesome to contribute to an awesome list, this is how you do it.
+For detailed instructions, please refer to [Creating New Sections in the Roadmap](create-list.md).
 
-You'll need a [GitHub account](https://github.com/join)!
+## Adding Resources to Existing Roadmap Sections
 
-1. Access the awesome list's GitHub page. For example: https://github.com/sindresorhus/awesome
-2. Click on the `readme.md` file: ![Step 2 Click on Readme.md](https://cloud.githubusercontent.com/assets/170270/9402920/53a7e3ea-480c-11e5-9d81-aecf64be55eb.png)
-3. Now click on the edit icon. ![Step 3 - Click on Edit](https://cloud.githubusercontent.com/assets/170270/9402927/6506af22-480c-11e5-8c18-7ea823530099.png)
-4. You can start editing the text of the file in the in-browser editor. Make sure you follow the guidelines above. You can use [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/). ![Step 4 - Edit the file](https://cloud.githubusercontent.com/assets/170270/9402932/7301c3a0-480c-11e5-81f5-7e343b71674f.png)
-5. Say why you're proposing the changes, and then click on "Propose file change". ![Step 5 - Propose Changes](https://cloud.githubusercontent.com/assets/170270/9402937/7dd0652a-480c-11e5-9138-bd14244593d5.png)
-6. Submit the [pull request](https://help.github.com/articles/using-pull-requests/)!
+Want to contribute new learning resources, exercises, or project ideas to an existing section? Here’s how you can add resources to the roadmap:
 
-## Updating your Pull Request
+1. **Fork the repository** and clone it to your local machine.
+2. Identify the relevant section of the roadmap where you want to add the resource.
+3. Follow the structure and formatting to keep the content clean and consistent.
+4. Add the resource (such as a tutorial, video, book, or tool) in the appropriate format.
 
-Sometimes, a maintainer of an awesome list will ask you to edit your Pull Request before it is included. This is normally due to spelling errors or because your PR didn't match the awesome-* list guidelines.
+To submit your additions, follow the steps below:
 
-[Here](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md) is a write up on how to change a Pull Request and the different ways you can do that.
+1. Access the C Programming Roadmap repository on GitHub.
+2. Click on the `readme.md` file (or the appropriate file for your section).
+3. Click the **edit** button to start making changes.
+4. Add your resource(s) following the [guidelines](pull_request_template.md) for formatting and clarity.
+5. Once you’ve made your changes, provide a clear description of the additions and click **Propose changes**.
+6. Submit a [Pull Request](https://help.github.com/articles/using-pull-requests/) with your changes.
+
+## Updating Your Pull Request
+
+If a maintainer asks you to edit your pull request (for example, due to formatting issues or minor errors), here’s a guide on how to amend your pull request and keep it aligned with project standards:
+
+[Here](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md) is a write-up on how to change a pull request and the different ways to make these amendments.
