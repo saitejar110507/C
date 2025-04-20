@@ -1,4 +1,4 @@
-# 💻 C Programming Roadmap: From Beginner to Pro
+# 💻 C Programming: From Beginner to Pro
 
 An open-source, structured, visual, and beginner-friendly path to mastering the C programming language. Start from zero and build real-world, system-level C programs.
 
