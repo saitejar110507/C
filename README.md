@@ -37,29 +37,43 @@ Whether you're a student, hobbyist, or aspiring systems programmer — this road
 ## 📁 Project Structure
 
 
-C-Roadmap/                     ← Root folder of your GitHub project
+---
+C-Roadmap/
 │
-├── README.md                 ← Main intro file (shows up first on GitHub)
-├── LICENSE                   ← License file (MIT, GPL, etc.)
-├── CONTRIBUTING.md           ← Guide for people who want to contribute
+├── README.md
+├── LICENSE
+├── CONTRIBUTING.md
 │
-├── stage-0/                  ← Preparation: Setup tools, compilers, editors
+├── stage-0/
 │   └── README.md
 │
-├── stage-1/                  ← Basics of C: Syntax, variables, IO, etc.
+├── stage-1/
 │   └── README.md
 │
-├── stage-2/                  ← Control Flow: Loops, conditionals
+├── stage-2/
 │   └── README.md
 │
-├── stage-3/                  ← Functions & Modularization
+├── stage-3/
 │   └── README.md
 │
-├── stage-4/                  ← Pointers, arrays, memory handling
+├── stage-4/
 │   └── README.md
 │
-├── stage-5/                  ← Data Structures: Linked Lists, Stacks, etc.
+├── stage-5/
 │   └── README.md
+│
+├── stage-6/
+│   └── README.md
+│
+├── stage-7/
+│   └── README.md
+│
+├── assets/
+│   ├── memory-layout.png
+│   └── visuals/
+│       └── stage1-flowchart.png
+---
+   └── README.md
 │
 ├── stage-6/                  ← Advanced topics: File IO, macros, sys calls
 │   └── README.md
