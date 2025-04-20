@@ -1,1 +1,46 @@
+# Stage 0: Preparation 🚀
 
+Welcome to Stage 0 of your C programming journey!  
+This section helps you set up everything you need before writing your first line of code.
+
+---
+
+## ✅ 1. Install a C Compiler
+
+### Windows
+- [MinGW](http://www.mingw.org/)
+- [TDM-GCC](https://jmeubank.github.io/tdm-gcc/)
+
+### Linux/macOS
+GCC is usually pre-installed. If not, run:
+
+- **Linux**
+  ```bash
+  sudo apt install build-essential
+
+macOS
+
+xcode-select --install
+
+✅ 2. Choose an IDE or Text Editor
+Beginner-Friendly:
+Code::Blocks
+
+Dev-C++
+
+Pro/Flexible:
+VS Code (with C/C++ extension)
+
+Vim
+
+Emacs
+
+✅ 3. Install Terminal Tools & Learn Basics
+Basics to Know:
+Navigate: cd, ls, pwd
+
+Compile: gcc filename.c -o output
+
+Run: ./output
+
+Edit in terminal: nano, vim
