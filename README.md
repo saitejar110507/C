@@ -36,44 +36,46 @@ Whether you're a student, hobbyist, or aspiring systems programmer — this road
 
 ## 📁 Project Structure
 
-C-Roadmap/                ← Root folder of your GitHub project
+
+C-Roadmap/                     ← Root folder of your GitHub project
 │
-├── README.md             ← Main intro file (shows up first on GitHub)
-├── LICENSE               ← License file (MIT, GPL, etc.)
-├── CONTRIBUTING.md       ← Guide for people who want to contribute
+├── README.md                 ← Main intro file (shows up first on GitHub)
+├── LICENSE                   ← License file (MIT, GPL, etc.)
+├── CONTRIBUTING.md           ← Guide for people who want to contribute
 │
-├── stage-0/              ← Preparation: Setup tools, compilers, editors
+├── stage-0/                  ← Preparation: Setup tools, compilers, editors
 │   └── README.md
 │
-├── stage-1/              ← Basics of C: Syntax, variables, IO, etc.
+├── stage-1/                  ← Basics of C: Syntax, variables, IO, etc.
 │   └── README.md
 │
-├── stage-2/              ← Control Flow: Loops, conditionals
+├── stage-2/                  ← Control Flow: Loops, conditionals
 │   └── README.md
 │
-├── stage-3/              ← Functions & Modularization
+├── stage-3/                  ← Functions & Modularization
 │   └── README.md
 │
-├── stage-4/              ← Pointers, arrays, memory handling
+├── stage-4/                  ← Pointers, arrays, memory handling
 │   └── README.md
 │
-├── stage-5/              ← Data Structures: Linked Lists, Stacks, etc.
+├── stage-5/                  ← Data Structures: Linked Lists, Stacks, etc.
 │   └── README.md
 │
-├── stage-6/              ← Advanced topics: File IO, macros, sys calls
+├── stage-6/                  ← Advanced topics: File IO, macros, sys calls
 │   └── README.md
 │
-├── stage-7/              ← Real-world projects, challenges
+├── stage-7/                  ← Real-world projects, challenges
 │   └── README.md
 │
-├── assets/               ← Static files: logos, icons, diagrams
-│   └── memory-layout.png
-│
-└── visuals/              ← Visual explanations (charts, infographics)
-    └── stage1-flowchart.png
+├── assets/                   ← Static files: logos, icons, diagrams
+│   ├── memory-layout.png
+│   └── visuals/              ← Visual explanations (charts, infographics)
+│       └── stage1-flowchart.png
 
 
----
+
+
+
 
 ## 🛠️ Setup & Requirements
 
